@@ -1,4 +1,7 @@
 using System;
+/// <summary>
+/// Dice.
+/// </summary>
 
 namespace GameUtils
 {
